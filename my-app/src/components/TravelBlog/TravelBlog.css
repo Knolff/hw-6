@@ -1,0 +1,25 @@
+.place-container {
+  width: 99%;
+  margin: 10px;
+  text-align: center;
+}
+
+.place-header {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-container img {
+  width: 30%;
+  height: 600px;
+  border-radius: 8px;
+}
+
+.place-description {
+  font-size: 2em;
+}
